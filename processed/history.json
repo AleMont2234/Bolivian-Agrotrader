@@ -933,11 +933,11 @@
     "freight": {},
     "costos": {
       "venta_soja_rosario": {
-        "costo_g_industrial": 299.7,
+        "costo_g_industrial": 301.71,
         "fob_pto_aguirre": {
-          "aceite": 1062.18,
-          "solvente": 262.35,
-          "grano": 364.14
+          "aceite": 1056.69,
+          "solvente": 266.43,
+          "grano": 364.58
         },
         "costo_exp": {
           "aceite": 60.91,
@@ -945,9 +945,9 @@
           "grano": 46.85
         },
         "fca_scz_montero": {
-          "aceite": 1001.27,
-          "solvente": 215.5,
-          "grano": 317.29
+          "aceite": 995.79,
+          "solvente": 219.58,
+          "grano": 317.73
         }
       },
       "venta_soja_lima": {
@@ -976,14 +976,14 @@
       "mercado_exterior": {
         "precios": {
           "rosario": {
-            "soya_grano": 473.56,
-            "harina_solvente": 351.4,
-            "aceite": 1175.0
+            "soya_grano": 474.0,
+            "harina_solvente": 355.5,
+            "aceite": 1169.5
           },
           "chicago": {
-            "soya_grano": 443.425,
-            "harina_solvente": 356.815,
-            "aceite": 1512.591
+            "soya_grano": 438.648,
+            "harina_solvente": 355.822,
+            "aceite": 1491.647
           },
           "desaguadero": {
             "soya_grano": 432.04,
@@ -993,14 +993,14 @@
         },
         "base": {
           "rosario_chicago": {
-            "soya_grano": 30.135,
-            "harina_solvente": -5.415,
-            "aceite": -337.59
+            "soya_grano": 35.352,
+            "harina_solvente": -0.322,
+            "aceite": -322.15
           },
           "desaguadero_chicago": {
-            "soya_grano": -11.39,
-            "harina_solvente": -12.15,
-            "aceite": -248.23
+            "soya_grano": -6.61,
+            "harina_solvente": -11.16,
+            "aceite": -227.29
           }
         }
       },
@@ -1017,7 +1017,7 @@
         }
       },
       "resumen_operaciones": {
-        "costo_fca_scz_grano": 289.89,
+        "costo_fca_scz_grano": 288.23,
         "costo_de_maquila": 45.0
       }
     }
