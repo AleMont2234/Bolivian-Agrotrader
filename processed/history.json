@@ -981,9 +981,9 @@
             "aceite": 1169.5
           },
           "chicago": {
-            "soya_grano": 438.648,
-            "harina_solvente": 355.822,
-            "aceite": 1491.647
+            "soya_grano": 437.638,
+            "harina_solvente": 355.271,
+            "aceite": 1478.86
           },
           "desaguadero": {
             "soya_grano": 432.04,
@@ -993,14 +993,14 @@
         },
         "base": {
           "rosario_chicago": {
-            "soya_grano": 35.352,
-            "harina_solvente": -0.322,
-            "aceite": -322.15
+            "soya_grano": 36.362,
+            "harina_solvente": 0.229,
+            "aceite": -309.36
           },
           "desaguadero_chicago": {
-            "soya_grano": -6.61,
-            "harina_solvente": -11.16,
-            "aceite": -227.29
+            "soya_grano": -5.6,
+            "harina_solvente": -10.61,
+            "aceite": -214.5
           }
         }
       },
