@@ -46,6 +46,14 @@
     "costos": {}
   },
   {
+    "date": "01/08/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "02/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -104,6 +112,14 @@
         "scz": 3225.0
       }
     },
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
+    "date": "02/08/2026",
+    "source_file": "google-form",
+    "grains": {},
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -171,6 +187,14 @@
     "costos": {}
   },
   {
+    "date": "03/08/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "04/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -225,6 +249,14 @@
     "costos": {}
   },
   {
+    "date": "04/08/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "05/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -265,6 +297,14 @@
   },
   {
     "date": "05/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
+    "date": "05/08/2026",
     "source_file": "google-form",
     "grains": {},
     "soy_complex": {},
@@ -313,6 +353,14 @@
   },
   {
     "date": "06/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
+    "date": "06/08/2026",
     "source_file": "google-form",
     "grains": {},
     "soy_complex": {},
@@ -665,6 +713,14 @@
     "costos": {}
   },
   {
+    "date": "14/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "15/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -712,6 +768,14 @@
     "costos": {}
   },
   {
+    "date": "15/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "16/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -751,6 +815,14 @@
     "costos": {}
   },
   {
+    "date": "16/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "17/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -785,6 +857,14 @@
         "anapo": 2895.36
       }
     },
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
+    "date": "17/07/2026",
+    "source_file": "google-form",
+    "grains": {},
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -839,6 +919,14 @@
     "costos": {}
   },
   {
+    "date": "18/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "19/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -886,6 +974,14 @@
     "costos": {}
   },
   {
+    "date": "19/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "20/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -921,6 +1017,14 @@
         "anapo": 2895.36
       }
     },
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
+    "date": "20/07/2026",
+    "source_file": "google-form",
+    "grains": {},
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1062,6 +1166,14 @@
     "costos": {}
   },
   {
+    "date": "21/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "22/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -1104,6 +1216,14 @@
     "costos": {}
   },
   {
+    "date": "22/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "23/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -1139,6 +1259,14 @@
         "anapo": 2895.36
       }
     },
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
+    "date": "23/07/2026",
+    "source_file": "google-form",
+    "grains": {},
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1185,6 +1313,14 @@
     "costos": {}
   },
   {
+    "date": "24/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "25/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -1220,6 +1356,14 @@
         "anapo": 2895.36
       }
     },
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
+    "date": "25/07/2026",
+    "source_file": "google-form",
+    "grains": {},
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1273,6 +1417,14 @@
     "costos": {}
   },
   {
+    "date": "26/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "27/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -1312,6 +1464,14 @@
     "costos": {}
   },
   {
+    "date": "27/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "28/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -1346,6 +1506,14 @@
         "anapo": 2895.36
       }
     },
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
+    "date": "28/07/2026",
+    "source_file": "google-form",
+    "grains": {},
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1399,6 +1567,14 @@
     "costos": {}
   },
   {
+    "date": "29/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "30/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -1439,6 +1615,14 @@
     "costos": {}
   },
   {
+    "date": "30/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "31/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -1449,6 +1633,14 @@
         "anapo": 2665.68
       }
     },
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
+    "date": "31/07/2026",
+    "source_file": "google-form",
+    "grains": {},
     "soy_complex": {},
     "freight": {},
     "costos": {}
