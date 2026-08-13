@@ -361,6 +361,14 @@
       "sorgo": {
         "cbba": 106.0,
         "scz": 77.5
+      },
+      "harina_integral": {
+        "cbba": 4325.0,
+        "scz": 3625.0
+      },
+      "harina_solvente": {
+        "cbba": 3770.0,
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -417,7 +425,14 @@
   {
     "date": "07/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "harina_integral": {
+        "scz": 3625.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -479,6 +494,12 @@
       "sorgo": {
         "cbba": 105.0,
         "scz": 78.0
+      },
+      "harina_integral": {
+        "scz": 3625.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -527,7 +548,14 @@
   {
     "date": "09/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "harina_integral": {
+        "scz": 3625.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -581,6 +609,12 @@
       "sorgo": {
         "cbba": 104.0,
         "scz": 75.5
+      },
+      "harina_integral": {
+        "scz": 3625.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -723,7 +757,12 @@
         "cbba": 95.0,
         "scz": 73.5
       },
+      "harina_integral": {
+        "cbba": 4325.0,
+        "scz": 3625.0
+      },
       "harina_solvente": {
+        "cbba": 3765.0,
         "scz": 3225.0
       }
     },
@@ -773,7 +812,11 @@
   {
     "date": "14/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "harina_solvente": {
+        "scz": 3225.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -834,6 +877,9 @@
       },
       "sorgo": {
         "scz": 75.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -882,7 +928,11 @@
   {
     "date": "16/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "harina_solvente": {
+        "scz": 3225.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -937,6 +987,13 @@
       "sorgo": {
         "cbba": 94.0,
         "scz": 72.5
+      },
+      "harina_integral": {
+        "cbba": 4325.0
+      },
+      "harina_solvente": {
+        "cbba": 3765.0,
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -1106,6 +1163,14 @@
       "sorgo": {
         "cbba": 92.0,
         "scz": 67.5
+      },
+      "harina_integral": {
+        "cbba": 4325.0,
+        "scz": 3725.0
+      },
+      "harina_solvente": {
+        "cbba": 3765.0,
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -1251,7 +1316,14 @@
   {
     "date": "21/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "harina_integral": {
+        "scz": 3825.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1307,6 +1379,12 @@
       },
       "sorgo": {
         "scz": 67.5
+      },
+      "harina_integral": {
+        "scz": 3825.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -1356,7 +1434,14 @@
   {
     "date": "23/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "harina_integral": {
+        "scz": 3825.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1413,6 +1498,14 @@
       "sorgo": {
         "cbba": 91.0,
         "scz": 70.5
+      },
+      "harina_integral": {
+        "cbba": 4325.0,
+        "scz": 3825.0
+      },
+      "harina_solvente": {
+        "cbba": 3765.0,
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -1571,6 +1664,14 @@
       },
       "sorgo": {
         "scz": 70.0
+      },
+      "harina_integral": {
+        "cbba": 4300.0,
+        "scz": 3825.0
+      },
+      "harina_solvente": {
+        "cbba": 3950.0,
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -1625,6 +1726,12 @@
       },
       "sorgo": {
         "cbba": 89.0
+      },
+      "harina_integral": {
+        "scz": 3825.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -1688,6 +1795,12 @@
       },
       "sorgo": {
         "scz": 67.0
+      },
+      "harina_integral": {
+        "scz": 3825.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
@@ -1737,7 +1850,14 @@
   {
     "date": "30/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "harina_integral": {
+        "scz": 3825.0
+      },
+      "harina_solvente": {
+        "scz": 3225.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1768,6 +1888,14 @@
       "sorgo": {
         "cbba": 87.0,
         "scz": 67.0
+      },
+      "harina_integral": {
+        "cbba": 4300.0,
+        "scz": 3825.0
+      },
+      "harina_solvente": {
+        "cbba": 3975.0,
+        "scz": 3225.0
       }
     },
     "soy_complex": {},
