@@ -32,7 +32,7 @@
       },
       "sorgo": {
         "cbba": 108.0,
-        "scz": 79.0
+        "scz": 0.0
       },
       "harina_integral": {
         "scz": 3625.0
@@ -354,7 +354,15 @@
   {
     "date": "06/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "maiz": {
+        "cbba": 120.0
+      },
+      "sorgo": {
+        "cbba": 106.0,
+        "scz": 77.5
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -407,6 +415,14 @@
     "costos": {}
   },
   {
+    "date": "07/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "08/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -454,6 +470,22 @@
     "costos": {}
   },
   {
+    "date": "08/07/2026",
+    "source_file": "google-form",
+    "grains": {
+      "maiz": {
+        "cbba": 117.0
+      },
+      "sorgo": {
+        "cbba": 105.0,
+        "scz": 78.0
+      }
+    },
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "09/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -493,6 +525,14 @@
     "costos": {}
   },
   {
+    "date": "09/07/2026",
+    "source_file": "google-form",
+    "grains": {},
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
     "date": "10/05/2026",
     "source_file": "google-form",
     "grains": {
@@ -525,6 +565,22 @@
       "harina_solvente": {
         "scz": 3225.0,
         "anapo": 2895.36
+      }
+    },
+    "soy_complex": {},
+    "freight": {},
+    "costos": {}
+  },
+  {
+    "date": "10/07/2026",
+    "source_file": "google-form",
+    "grains": {
+      "maiz": {
+        "cbba": 115.0
+      },
+      "sorgo": {
+        "cbba": 104.0,
+        "scz": 75.5
       }
     },
     "soy_complex": {},
@@ -660,10 +716,12 @@
     "source_file": "google-form",
     "grains": {
       "maiz": {
-        "scz": 90.0
+        "cbba": 113.0,
+        "scz": 84.5
       },
       "sorgo": {
-        "scz": 80.0
+        "cbba": 95.0,
+        "scz": 73.5
       },
       "harina_solvente": {
         "scz": 3225.0
@@ -770,7 +828,14 @@
   {
     "date": "15/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "maiz": {
+        "scz": 83.5
+      },
+      "sorgo": {
+        "scz": 75.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -864,7 +929,16 @@
   {
     "date": "17/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "maiz": {
+        "cbba": 108.0,
+        "scz": 85.0
+      },
+      "sorgo": {
+        "cbba": 94.0,
+        "scz": 72.5
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1024,7 +1098,16 @@
   {
     "date": "20/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "maiz": {
+        "cbba": 105.0,
+        "scz": 84.0
+      },
+      "sorgo": {
+        "cbba": 92.0,
+        "scz": 67.5
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1218,7 +1301,14 @@
   {
     "date": "22/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "maiz": {
+        "scz": 84.0
+      },
+      "sorgo": {
+        "scz": 67.5
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1315,7 +1405,16 @@
   {
     "date": "24/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "maiz": {
+        "cbba": 101.0,
+        "scz": 84.0
+      },
+      "sorgo": {
+        "cbba": 91.0,
+        "scz": 70.5
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1466,7 +1565,14 @@
   {
     "date": "27/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "maiz": {
+        "scz": 84.0
+      },
+      "sorgo": {
+        "scz": 70.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1513,7 +1619,14 @@
   {
     "date": "28/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "maiz": {
+        "cbba": 98.0
+      },
+      "sorgo": {
+        "cbba": 89.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1569,7 +1682,14 @@
   {
     "date": "29/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "maiz": {
+        "scz": 82.5
+      },
+      "sorgo": {
+        "scz": 67.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
@@ -1640,7 +1760,16 @@
   {
     "date": "31/07/2026",
     "source_file": "google-form",
-    "grains": {},
+    "grains": {
+      "maiz": {
+        "cbba": 102.0,
+        "scz": 82.5
+      },
+      "sorgo": {
+        "cbba": 87.0,
+        "scz": 67.0
+      }
+    },
     "soy_complex": {},
     "freight": {},
     "costos": {}
