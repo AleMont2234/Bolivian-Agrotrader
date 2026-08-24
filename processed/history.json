@@ -1203,11 +1203,11 @@
         }
       },
       "venta_soja_lima": {
-        "costo_g_industrial": 382.58,
+        "costo_g_industrial": 381.28,
         "fob_desaguadero": {
-          "aceite": 1187.65,
-          "solvente": 348.4,
-          "grano": 433.85
+          "aceite": 1174.12,
+          "solvente": 350.03,
+          "grano": 431.39
         },
         "costo_exp": {
           "aceite": 70.0,
@@ -1215,9 +1215,9 @@
           "grano": 50.0
         },
         "fca_scz_montero": {
-          "aceite": 1117.65,
-          "solvente": 298.4,
-          "grano": 383.85
+          "aceite": 1104.12,
+          "solvente": 300.03,
+          "grano": 381.39
         },
         "costo_total_transporte": {
           "aceite": 0.0,
@@ -1233,38 +1233,38 @@
             "aceite": 1205.9
           },
           "chicago": {
-            "soya_grano": 454.357,
-            "harina_solvente": 358.799,
-            "aceite": 1555.802
+            "soya_grano": 452.244,
+            "harina_solvente": 361.775,
+            "aceite": 1480.404
           },
           "desaguadero": {
-            "soya_grano": 433.85,
-            "harina_solvente": 348.4,
-            "aceite": 1187.65
+            "soya_grano": 431.39,
+            "harina_solvente": 350.03,
+            "aceite": 1174.12
           }
         },
         "base": {
           "rosario_chicago": {
-            "soya_grano": 27.543,
-            "harina_solvente": 10.201,
-            "aceite": -349.9
+            "soya_grano": 29.656,
+            "harina_solvente": 7.225,
+            "aceite": -274.5
           },
           "desaguadero_chicago": {
-            "soya_grano": -20.51,
-            "harina_solvente": -10.4,
-            "aceite": -368.15
+            "soya_grano": -20.85,
+            "harina_solvente": -11.74,
+            "aceite": -306.28
           }
         }
       },
       "recepcion_datos": {
         "min": {
           "grano": 336.43,
-          "solvente": 276.5,
+          "solvente": 277.47,
           "aceite": 1035.0
         },
         "max": {
-          "grano": 508.52,
-          "solvente": 381.0,
+          "grano": 467.36,
+          "solvente": 379.9,
           "aceite": 1254.07
         }
       },
