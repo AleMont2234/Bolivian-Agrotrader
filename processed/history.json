@@ -1203,11 +1203,11 @@
         }
       },
       "venta_soja_lima": {
-        "costo_g_industrial": 381.28,
+        "costo_g_industrial": 383.66,
         "fob_desaguadero": {
-          "aceite": 1174.12,
-          "solvente": 350.03,
-          "grano": 431.39
+          "aceite": 1186.12,
+          "solvente": 350.24,
+          "grano": 445.17
         },
         "costo_exp": {
           "aceite": 70.0,
@@ -1215,9 +1215,9 @@
           "grano": 50.0
         },
         "fca_scz_montero": {
-          "aceite": 1104.12,
-          "solvente": 300.03,
-          "grano": 381.39
+          "aceite": 1116.12,
+          "solvente": 300.24,
+          "grano": 395.17
         },
         "costo_total_transporte": {
           "aceite": 0.0,
@@ -1233,26 +1233,26 @@
             "aceite": 1182.8
           },
           "chicago": {
-            "soya_grano": 482.467,
-            "harina_solvente": 386.797,
-            "aceite": 1596.587
+            "soya_grano": 478.609,
+            "harina_solvente": 382.608,
+            "aceite": 1593.06
           },
           "desaguadero": {
-            "soya_grano": 431.39,
-            "harina_solvente": 350.03,
-            "aceite": 1174.12
+            "soya_grano": 445.17,
+            "harina_solvente": 350.24,
+            "aceite": 1186.12
           }
         },
         "base": {
           "rosario_chicago": {
-            "soya_grano": 23.873,
-            "harina_solvente": 4.103,
-            "aceite": -413.79
+            "soya_grano": 27.731,
+            "harina_solvente": 8.292,
+            "aceite": -410.26
           },
           "desaguadero_chicago": {
-            "soya_grano": -51.08,
-            "harina_solvente": -36.77,
-            "aceite": -422.47
+            "soya_grano": -33.44,
+            "harina_solvente": -32.37,
+            "aceite": -406.94
           }
         }
       },
@@ -1260,16 +1260,16 @@
         "min": {
           "grano": 336.43,
           "solvente": 277.47,
-          "aceite": 1035.0
+          "aceite": 1038.28
         },
         "max": {
-          "grano": 467.36,
-          "solvente": 379.9,
-          "aceite": 1254.07
+          "grano": 470.69,
+          "solvente": 385.0,
+          "aceite": 1253.93
         }
       },
       "resumen_operaciones": {
-        "costo_fca_scz_grano": 284.1,
+        "costo_fca_scz_grano": 281.66,
         "costo_de_maquila": 45.0
       }
     }
