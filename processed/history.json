@@ -1189,7 +1189,7 @@
         "fob_pto_aguirre": {
           "aceite": 1069.95,
           "solvente": 301.73,
-          "grano": 396.82
+          "grano": 407.74
         },
         "costo_exp": {
           "aceite": 60.91,
@@ -1199,7 +1199,7 @@
         "fca_scz_montero": {
           "aceite": 1009.05,
           "solvente": 254.88,
-          "grano": 349.97
+          "grano": 360.89
         }
       },
       "venta_soja_lima": {
@@ -1228,7 +1228,7 @@
       "mercado_exterior": {
         "precios": {
           "rosario": {
-            "soya_grano": 506.34,
+            "soya_grano": 517.29,
             "harina_solvente": 390.9,
             "aceite": 1182.8
           },
@@ -1245,7 +1245,7 @@
         },
         "base": {
           "rosario_chicago": {
-            "soya_grano": 27.731,
+            "soya_grano": 38.681,
             "harina_solvente": 8.292,
             "aceite": -410.26
           },
@@ -1269,7 +1269,7 @@
         }
       },
       "resumen_operaciones": {
-        "costo_fca_scz_grano": 281.66,
+        "costo_fca_scz_grano": 280.64,
         "costo_de_maquila": 45.0
       }
     }
